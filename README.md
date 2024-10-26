@@ -2,7 +2,7 @@
 
 <div align="center"
     
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312bdbhb6k6yyeshdpbqomaugm2q&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312bdbhb6k6yyeshdpbqomaugm2q&cover_image=true&theme=novatorem&show_offline=false&background_color=050505&interchange=false&bar_color=ff0000&bar_color_cover=false)](https://open.spotify.com/user/312bdbhb6k6yyeshdpbqomaugm2q)
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR5OGdncDNraHBvbHV1MzYwaHllZzUyenJ2Y3BrOTdjdDBlbG0xaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ELpbkVBwEHcYp5yiQx/giphy.gif" width="300px" alt="Funny GIF">
 
 </div>
